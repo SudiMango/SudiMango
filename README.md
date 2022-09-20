@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript to code a discord bot
 - 💞️ I’m looking to collaborate on my discord server
 - 📫 How to reach me:
-- Youtube: MangoDev (10k+ subs)
+- Youtube: MangoDev (20k+ subs)
 - Twitter: @SudiMango
 - Discord: https://discord.gg/x3kXyCJxVX
 - Instagram: @MrMangoseed
