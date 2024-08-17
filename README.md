@@ -1,12 +1,4 @@
-- 👋 Hi, I’m Sudi
-- 👀 I’m interested in game and software development
-- 🌱 I’m currently learning javascript to code a discord bot
-- 💞️ I’m looking to collaborate on my discord server
-- 📫 How to reach me:
-- Youtube: MangoDev (20k+ subs)
-- Twitter: @SudiMango
-- Discord: https://discord.gg/x3kXyCJxVX
-- Instagram: @MrMangoseed
+what the sigma
 
 <!---
 SudiMango/SudiMango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
