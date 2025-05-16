@@ -10,11 +10,11 @@ I'm currently a freshman studying computer science. I love programming apps that
 ### I have experience coding with these languages:
 - Java (5+ years)
 - Lua (3+ years of Roblox game development)
-- JavaScript (3+ years)
+- JavaScript/TypeScript (3+ years)
 - Python (3+ years)
 - HTML & CSS (6+ years)
 - SQL (1+ years)
-- Familiar with NoSQL databases such as Firebase and MongoDB
+- Familiar with NoSQL databases such as Firebase, Supabase and MongoDB
 
 ### Follow my socials:
 - My YouTube (game development content): https://www.youtube.com/mangodev
