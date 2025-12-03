@@ -1,25 +1,47 @@
-# Hi 👋, I'm Sudi!
-## Currently studying Computer Science at the University of British Columbia
+# Hi, I'm Sudi! 👋
+
+I'm a 2nd year Computer Science student at UBC. I like making random ideas come to life.
 
 ---
 
-I'm currently a freshman studying computer science. I love programming apps that serve a purpose, developing games on Roblox that entertain, and creating content on YouTube. Don't hesitate to reach out if you want to collaborate on a project!
+## 🚀 Current Project
+
+I'm currently working on **MyStudyPal**: An AI-powered study tool for any student!
+
+👉 **[Check it out here](https://github.com/SudiMango/MyStudyPal)**
 
 ---
 
-### I have experience coding with these languages:
-- Java (5+ years)
-- Lua (3+ years of Roblox game development)
-- JavaScript/TypeScript (3+ years)
-- Python (3+ years)
-- HTML & CSS (6+ years)
-- SQL (1+ years)
-- Familiar with NoSQL databases such as Firebase, Supabase and MongoDB
+## 💻 Tech Stack
 
-### Follow my socials:
-- My YouTube (game development content): https://www.youtube.com/mangodev
-- My LinkedIn: https://www.linkedin.com/in/sudipto-islam-442627347/
-- My Instagram: https://www.instagram.com/mrmangoseed/
+**Languages**
+```
+Java · Python · TypeScript · JavaScript · Lua
+```
+
+**Frontend**
+```
+React · Next.js · Tailwind CSS
+```
+
+**Backend**
+```
+Spring Boot · Spring Security · FastAPI · Flask · PostgreSQL · SQLAlchemy · Alembic
+```
+
+**Tools & Other**
+```
+Git · JUnit · Firebase · Supabase · MongoDB · AWS EC2 · Google GenAI
+```
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudipto-islam/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/mangodev)
+
+---
 
 <!---
 SudiMango/SudiMango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
