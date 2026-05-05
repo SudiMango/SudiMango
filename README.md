@@ -1,14 +1,14 @@
 # Hi, I'm Sudi! 👋
 
-I'm a 2nd year Computer Science student at UBC. I like making random ideas come to life.
+I'm a 2nd year Computer Science student at the University of British Columbia. I like backend development as well as game development.
 
 ---
 
 ## 🚀 Current Project
 
-I'm currently working on **MyStudyPal**: An AI-powered study tool for any student!
+I'm currently working on **SimpleEngine 2D**: A lightweight C++ 2D game engine with an integrated editor.
 
-👉 **[Check it out here](https://github.com/SudiMango/MyStudyPal)**
+👉 **[Check it out here](https://github.com/SudiMango/SimpleEngine2D)**
 
 ---
 
@@ -16,22 +16,22 @@ I'm currently working on **MyStudyPal**: An AI-powered study tool for any studen
 
 **Languages**
 ```
-Java · Python · TypeScript · JavaScript · Lua
+Java · C++ · Python · TypeScript · JavaScript · Lua · SQL
 ```
 
 **Frontend**
 ```
-React · Next.js · Tailwind CSS
+React · React Native · Next.js · Tailwind CSS
 ```
 
 **Backend**
 ```
-Spring Boot · Spring Security · FastAPI · Flask · PostgreSQL · SQLAlchemy · Alembic
+Spring Boot · FastAPI · Flask · SQLAlchemy · Alembic · JUnit · PostgreSQL · PGVector · PostGIS
 ```
 
-**Tools & Other**
+**Cloud & DevOps**
 ```
-Git · JUnit · Firebase · Supabase · MongoDB · AWS EC2 · Google GenAI
+Microsoft Azure · AWS EC2 · GitHub Actions · Docker · Cloudflare · Supabase · Firebase · Railway · Git · Linux
 ```
 
 ---
