@@ -1,0 +1,178 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="760" height="540" viewBox="0 0 760 540"
+     role="img" aria-label="Sudi terminal profile">
+
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular,
+                   Consolas, 'Liberation Mono', monospace;
+      font-size: 15px;
+    }
+
+    .muted  { fill: #91a2b6; }
+    .prompt { fill: #72e0ac; }
+    .cyan   { fill: #7acaff; }
+    .white  { fill: #e5edf6; }
+
+    .line {
+      opacity: 0;
+      animation: appear .15s forwards;
+    }
+
+    .l1  { animation-delay: .3s; }
+    .l2  { animation-delay: .8s; }
+    .l3  { animation-delay: 1.3s; }
+    .l4  { animation-delay: 1.8s; }
+    .l5  { animation-delay: 2.3s; }
+    .l6  { animation-delay: 2.8s; }
+    .l7  { animation-delay: 3.3s; }
+    .l8  { animation-delay: 3.8s; }
+    .l9  { animation-delay: 4.3s; }
+    .l10 { animation-delay: 4.8s; }
+    .l11 { animation-delay: 5.3s; }
+    .l12 { animation-delay: 5.8s; }
+    .l13 { animation-delay: 6.3s; }
+    .l14 { animation-delay: 6.8s; }
+    .l15 { animation-delay: 7.3s; }
+    .l16 { animation-delay: 7.8s; }
+    .l17 { animation-delay: 8.3s; }
+
+    .cursor {
+      opacity: 0;
+      animation: blink 1s 8.3s steps(1, end) infinite;
+    }
+
+    @keyframes appear {
+      to { opacity: 1; }
+    }
+
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="760" height="540" rx="14"
+        fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <path d="M14 0H746Q760 0 760 14V45H0V14Q0 0 14 0Z"
+        fill="#202833"/>
+
+  <circle cx="23" cy="23" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="23" r="6" fill="#febc2e"/>
+  <circle cx="65" cy="23" r="6" fill="#28c840"/>
+
+  <text x="380" y="28" text-anchor="middle"
+        class="mono muted" font-size="13">
+    sudi@github: ~
+  </text>
+
+  <g class="mono">
+
+    <!-- Whoami -->
+    <text x="26" y="78" class="prompt line l1">
+      sudi@github:~$ whoami
+    </text>
+
+    <text x="26" y="111" class="white line l2"
+          font-size="23" font-weight="bold">
+      hey, i'm sudi.
+    </text>
+
+    <text x="26" y="138" class="muted line l3">
+      software developer · computer science @ ubc
+    </text>
+
+    <text x="26" y="163" class="muted line l4">
+      i like building stuff.
+    </text>
+
+    <!-- Currently -->
+    <text x="26" y="199" class="prompt line l5">
+      sudi@github:~$ cat currently.txt
+    </text>
+
+    <!-- Project 1 -->
+    <text x="26" y="233" class="muted line l6">
+      [1/2]
+    </text>
+
+    <text x="91" y="233" class="cyan line l6">
+      podlet.dev
+    </text>
+
+    <text x="91" y="253" class="muted line l7"
+          font-size="13">
+      your server. your deployments.
+    </text>
+
+    <!-- Project 2 -->
+    <text x="26" y="280" class="muted line l8">
+      [2/2]
+    </text>
+
+    <text x="91" y="280" class="cyan line l8">
+      app.ubcesports.ca
+    </text>
+
+    <text x="91" y="300" class="muted line l9"
+          font-size="13">
+      making campus esports a little easier to run.
+    </text>
+
+    <!-- Interests -->
+    <text x="26" y="337" class="prompt line l10">
+      sudi@github:~$ cat interests.txt
+    </text>
+
+    <text x="26" y="363" class="muted line l11">
+      cloud infrastructure, game dev, and a lil valorant
+    </text>
+
+    <!-- Contacts -->
+    <text x="26" y="399" class="prompt line l12">
+      sudi@github:~$ cat contacts.txt
+    </text>
+
+    <text x="26" y="425" class="muted line l13">
+      email
+    </text>
+    <text x="145" y="425" class="cyan line l13">
+      sudipto.islam2005@gmail.com
+    </text>
+
+    <text x="26" y="449" class="muted line l14">
+      instagram
+    </text>
+    <text x="145" y="449" class="cyan line l14">
+      @mrmangoseed
+    </text>
+
+    <text x="26" y="473" class="muted line l15">
+      linkedin
+    </text>
+    <text x="145" y="473" class="cyan line l15">
+      linkedin.com/in/sudipto-islam/
+    </text>
+
+    <text x="26" y="497" class="muted line l16">
+      youtube
+    </text>
+    <text x="145" y="497" class="cyan line l16">
+      @MangoDev
+    </text>
+
+    <!-- Final prompt -->
+    <text x="26" y="528" class="prompt line l17">
+      sudi@github:~$
+    </text>
+
+    <!-- Blinking cursor -->
+    <rect x="158" y="514" width="9" height="18"
+          fill="#e5edf6" class="cursor"/>
+
+  </g>
+</svg>
